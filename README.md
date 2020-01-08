@@ -3,6 +3,7 @@
 install the necessary libraries by the following command:-
 
 pip install opencv-python 
+
 pip install pandas
 
 The version I have used are:-
