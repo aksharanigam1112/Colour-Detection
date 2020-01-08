@@ -16,7 +16,7 @@ Run the commands in the terminals:-
 
 5. python3 colour.py
 
-###Instructions:-
+### Instructions:-
 
 (i) The image must be saved in the same repository
 (ii) Double Click on the part of the image, to detect the colour
