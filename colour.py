@@ -35,8 +35,11 @@ if __name__ == '__main__':
     #declaring global variables
     clicked = False
     r = g = b = xpos = ypos = 0
-
-    image = input('Enter the image name (press esc to close the image):- ')
+    print("\t\t Instructions\n")
+    print("1. Image must be stored in the same folder")
+    print("2. Double click on the image to get the color")
+    print("3. Press ESC button to quit")
+    image = input('Enter the image name:- ')
     img = cv2.imread(image)
 
     index=["color","color_name","hex","R","G","B"]
