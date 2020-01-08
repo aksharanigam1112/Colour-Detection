@@ -19,5 +19,7 @@ Run the commands in the terminals:-
 ### Instructions:-
 
 (i) The image must be saved in the same repository
+
 (ii) Double Click on the part of the image, to detect the colour
+
 (iii) Press ESC button to close the image
