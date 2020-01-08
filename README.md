@@ -12,4 +12,6 @@ Run the commands in the terminals:-
 
 The version I have used are:-  opencv-python 4.1.1.26  pandas 0.24.2
 
-4. python3 colour.py
+4. cd Colour-Detection
+
+5. python3 colour.py
