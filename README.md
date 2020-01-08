@@ -4,7 +4,7 @@ To run the code first clone the project, install the necessary libraries and the
 
 Run the commands in the terminals:-
 
-1. git clone https://github.com/aksharanigam1112/Colour-Detection.git [https://github.com/aksharanigam1112/Colour-Detection.git]
+1. git clone https://github.com/aksharanigam1112/Colour-Detection.git
 
 2. pip install opencv-python
 
