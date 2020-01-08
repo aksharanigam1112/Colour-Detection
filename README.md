@@ -1,5 +1,5 @@
 # Colour-Detection
-This aims helping people who are colour blind or find it difficult to dicipher between colours of same shade.
+This aims helping people who are colour blind or find it difficult to decipher between colours of same shade.
 To run the code first clone the project, install the necessary libraries and the run. (We assume you have python3 and pip installed on your system.)
 
 Run the commands in the terminals:-
